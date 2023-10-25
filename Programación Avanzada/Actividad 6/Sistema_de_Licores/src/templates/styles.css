@@ -1,0 +1,35 @@
+
+body {
+    background-color: #f2f2f2;
+}
+
+.login-form {
+    background-color: #fff;
+    border: 1px solid #e0e0e0;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center; /* Para centrar el formulario */
+}
+
+.login-form h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.login-form .form-group {
+    margin-bottom: 20px;
+}
+
+.login-form input {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 100%;
+    padding: 10px;
+}
+
+.login-form button {
+    border-radius: 5px;
+    margin-top: 10px; /* Añadir margen superior para separar el botón de los campos de entrada */
+}
+
